@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+    list-style: none;
+    text-decoration: none;
+  }
+  :root {
+    --big-font: 4rem;
+    --h2-font: 2.24rem;
+    --p-font: 0.9rem;
+  }
+  section {
+    padding: 50px 10%;
+  }
+  
+  .hero{
+    text-align: center;
+    color: white;
+  }
+  
+  body{
+    background-color: #212121;
+  }
+  
+  .car{
+   width : 500px; height : 700px; background : #0FA2F4;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   margin-top: 70px;
+  border-radius: 25px;
+  }
+  
+  .second{
+    width : 500px; height : 120px; background : #0C5D8B; 
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   border-radius: 25px;
+  }
+  
+  .question{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+  }
+  
+  .talk{
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  .partmsg{
+    width : 500px; height : 120px; background : #ffffff; 
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   border-radius: 25px;
+   margin-top: 500px;
+  }
+  
+  .text_back{
+    text-align: center;
+    padding-top: 0px;
+  }
+  
+  .trombone_file{
+    background-color: white;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-left: 20px;
+  }
+  
+  .image-upload>input {
+    display: none;
+  }
+  
+  .image-upload{
+    padding-left: 20px;
+   
+  }
+  
+  
+  
+  .sendd{
+    text-align: center;
+    
+    
+  }
+  
+  .envoie{
+    margin-top: 10px;
+    height: 40px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(229, 229, 229);
+    transition: 0.5s;
+    border-color: white;
+   
+}
+
+.envoie:hover{
+    background-color: #0FA2F4;
+    transition: 0.5s;
+    color: white;
+}
+
+.presence{
+    text-align: center;
+}
+
+.activit{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.email{
+    text-align: center;
+}
+
+.sending{
+    text-align: center;
+    
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
+  list-style: none;
+  text-decoration: none;
+}
+:root {
+  --big-font: 4rem;
+  --h2-font: 2.24rem;
+  --p-font: 0.9rem;
+}
+section {
+  padding: 50px 10%;
+}
+
+.retour{
+  text-align: center;
+  margin-top: 150px;
+ 
+}
+
+.return{
+  width: 900px;
+  height: 80px;
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 25px;
+  background-color: #0FA2F4;
+  color: white;
+  transition: 0.5s;
+}
+
+.return:hover{
+  background-color: #ffffff;
+  color: #0FA2F4;
+  transition: 0.5s;
+}
+
+
+
+
+

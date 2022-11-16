@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+    list-style: none;
+    text-decoration: none;
+  }
+  :root {
+    --big-font: 4rem;
+    --h2-font: 2.24rem;
+    --p-font: 0.9rem;
+  }
+  section {
+    padding: 50px 10%;
+  }
+  
+  body{
+    background-color: rgb(99, 99, 99);
+  }
+  
+  .nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 100px;
+    box-shadow: 0 0.5rem 50rem;
+  }
+  .navbar {
+    display: flex;
+  }
+  .navbar a {
+    font-size: 2rem;
+    padding: 10px 20px;
+    color: var(--text-color);
+    font-weight: 500;
+  }
+  .navbar a:hover {
+    color: var(--content-color);
+  }
+
+  .page{
+    width : 500px; height : 700px; background : #0FA2F4;
+    border-radius: 25px;
+    
+  }
+
+  .second{
+    width : 500px; height : 90px; background : #ffffff;
+    border-radius: 25px;
+    
+  }
+  
+  .back{
+    padding-left: 700px;
+    margin-top: 100px;
+    
+  }
+
+  .regis{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .no_account{
+    background-color: #ffffff;
+    border: none;
+    font-size: 20px;
+    
+    
+  }
+
+  .account_no{
+    text-align: center;
+    
+  }
+
+  .formu{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .registerie{
+    margin-top: 30px;
+    font-size: 40px;
+    border-radius: 25px;
+    font-family: sans-serif;
+    transition: 0.5s;
+  }
+
+  .registerie:hover{
+    background-color: #0FA2F4;
+    color: white;
+    transition: 0.5s;
+  }
+

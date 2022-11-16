@@ -1,0 +1,31 @@
+body{
+    background-color:#414141;
+}
+
+.car{
+ width : 600px; height : 900px; background : #0FA2F4;
+margin-left: 700px;
+border-radius: 25px;
+}
+
+.second{
+    width : 600px; height : 120px; background : #ffffff;
+    border-radius: 25px;
+
+}
+
+.log{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.no_account{
+   background-color: white;
+   border: none;
+}
+
+.account_no{
+    text-align: center;
+    
+}
